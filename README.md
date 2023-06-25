@@ -1,1 +1,1 @@
-# boilerplate-nodets
+# boilerplate: nodejs + typescript
